@@ -7,3 +7,4 @@
 1. Once the react app is open in the browser, login into spotify. 
 1. The albums listed are from 3 functions from the Spotify-WebAPI-JS library
  - `getMyTopTracks()`, `getMySavedTracks()`, and `getMySavedAlbums()`
+1. The app is retreiving those items from your spotify account. 
