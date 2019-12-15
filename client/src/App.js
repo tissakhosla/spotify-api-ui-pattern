@@ -192,7 +192,7 @@ class App extends Component {
     } else {
       return (
         <div className='App'>
-          <a href="http://localhost:8888/">
+          <a href="http://arch.finityllc.com:8888/">
             <button>Login to Spotify</button>
           </a>
         </div>
