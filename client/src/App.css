@@ -20,6 +20,11 @@ button:hover {
   border-color: rgb(246, 0, 21);
 }
 
+button:focus {
+  outline: none;
+  border: none;
+}
+
 .popup {
   background-color: rgb(255, 104, 117);
   width: 600px;
