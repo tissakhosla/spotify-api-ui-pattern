@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spotify-api-ui-pattern/static/css/main.235e0ea8.chunk.css",
+    "main.js": "/spotify-api-ui-pattern/static/js/main.397db80e.chunk.js",
+    "main.js.map": "/spotify-api-ui-pattern/static/js/main.397db80e.chunk.js.map",
+    "runtime-main.js": "/spotify-api-ui-pattern/static/js/runtime-main.7f62d3a5.js",
+    "runtime-main.js.map": "/spotify-api-ui-pattern/static/js/runtime-main.7f62d3a5.js.map",
+    "static/js/2.befd4099.chunk.js": "/spotify-api-ui-pattern/static/js/2.befd4099.chunk.js",
+    "static/js/2.befd4099.chunk.js.map": "/spotify-api-ui-pattern/static/js/2.befd4099.chunk.js.map",
+    "index.html": "/spotify-api-ui-pattern/index.html",
+    "precache-manifest.54eb3415eca27de13f35d9f9404f4a04.js": "/spotify-api-ui-pattern/precache-manifest.54eb3415eca27de13f35d9f9404f4a04.js",
+    "service-worker.js": "/spotify-api-ui-pattern/service-worker.js",
+    "static/css/main.235e0ea8.chunk.css.map": "/spotify-api-ui-pattern/static/css/main.235e0ea8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f62d3a5.js",
+    "static/js/2.befd4099.chunk.js",
+    "static/css/main.235e0ea8.chunk.css",
+    "static/js/main.397db80e.chunk.js"
+  ]
+}
